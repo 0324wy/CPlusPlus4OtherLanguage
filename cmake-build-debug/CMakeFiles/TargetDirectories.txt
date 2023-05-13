@@ -1,0 +1,8 @@
+/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/CMakeFiles/3.struct.dir
+/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/CMakeFiles/5.reference.dir
+/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/CMakeFiles/2.pointer.dir
+/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/CMakeFiles/helloWorld.dir
+/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/CMakeFiles/4.memoryArea.dir
+/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/CMakeFiles/functionDeclaration.dir

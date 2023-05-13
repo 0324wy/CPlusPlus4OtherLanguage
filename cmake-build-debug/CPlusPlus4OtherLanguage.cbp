@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CPlusPlus4OtherLanguage"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3.struct">
+				<Option output="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/3.struct" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/0.helloWorld"/>
+					<Add directory="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/1.functionDeclaration/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12/aarch64-apple-darwin22"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 3.struct"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3.struct/fast">
+				<Option output="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/3.struct" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/0.helloWorld"/>
+					<Add directory="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/1.functionDeclaration/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12/aarch64-apple-darwin22"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 3.struct/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="5.reference">
+				<Option output="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/5.reference" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/0.helloWorld"/>
+					<Add directory="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/1.functionDeclaration/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12/aarch64-apple-darwin22"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 5.reference"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="5.reference/fast">
+				<Option output="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/5.reference" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/0.helloWorld"/>
+					<Add directory="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/1.functionDeclaration/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12/aarch64-apple-darwin22"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 5.reference/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2.pointer">
+				<Option output="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/2.pointer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/0.helloWorld"/>
+					<Add directory="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/1.functionDeclaration/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12/aarch64-apple-darwin22"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 2.pointer"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2.pointer/fast">
+				<Option output="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/2.pointer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/0.helloWorld"/>
+					<Add directory="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/1.functionDeclaration/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12/aarch64-apple-darwin22"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 2.pointer/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="helloWorld">
+				<Option output="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/helloWorld" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/0.helloWorld"/>
+					<Add directory="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/1.functionDeclaration/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12/aarch64-apple-darwin22"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 helloWorld"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="helloWorld/fast">
+				<Option output="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/helloWorld" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/0.helloWorld"/>
+					<Add directory="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/1.functionDeclaration/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12/aarch64-apple-darwin22"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 helloWorld/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4.memoryArea">
+				<Option output="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/4.memoryArea" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/0.helloWorld"/>
+					<Add directory="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/1.functionDeclaration/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12/aarch64-apple-darwin22"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 4.memoryArea"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4.memoryArea/fast">
+				<Option output="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/4.memoryArea" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/0.helloWorld"/>
+					<Add directory="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/1.functionDeclaration/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12/aarch64-apple-darwin22"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 4.memoryArea/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="functionDeclaration">
+				<Option output="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/functionDeclaration" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/0.helloWorld"/>
+					<Add directory="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/1.functionDeclaration/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12/aarch64-apple-darwin22"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 functionDeclaration"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="functionDeclaration/fast">
+				<Option output="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/functionDeclaration" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/0.helloWorld"/>
+					<Add directory="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/1.functionDeclaration/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12/aarch64-apple-darwin22"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/../../../../../../include/c++/12/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/12.2.0/bin/../lib/gcc/current/gcc/aarch64-apple-darwin22/12/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX13.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 functionDeclaration/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/0.helloWorld/src/main.cpp">
+			<Option target="helloWorld"/>
+		</Unit>
+		<Unit filename="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/1.functionDeclaration/include/swap.h">
+			<Option target="functionDeclaration"/>
+		</Unit>
+		<Unit filename="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/1.functionDeclaration/src/main.cpp">
+			<Option target="functionDeclaration"/>
+		</Unit>
+		<Unit filename="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/2.pointer/src/main.cpp">
+			<Option target="2.pointer"/>
+		</Unit>
+		<Unit filename="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/3.struct/src/main.cpp">
+			<Option target="3.struct"/>
+		</Unit>
+		<Unit filename="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/4.memoryArea/include/temp.h">
+			<Option target="4.memoryArea"/>
+		</Unit>
+		<Unit filename="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/4.memoryArea/src/main.cpp">
+			<Option target="4.memoryArea"/>
+		</Unit>
+		<Unit filename="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/5.reference/src/main.cpp">
+			<Option target="5.reference"/>
+		</Unit>
+		<Unit filename="/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

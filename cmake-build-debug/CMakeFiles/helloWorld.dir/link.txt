@@ -1,0 +1,1 @@
+/opt/homebrew/Cellar/gcc/12.2.0/bin/g++-12  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/helloWorld.dir/0.helloWorld/src/main.cpp.o  -o helloWorld 

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../1.functionDeclaration/include/swap.h
+iostream
+-
+cmath
+-
+algorithm
+-
+
+/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/1.functionDeclaration/src/main.cpp
+swap.h
+/Users/wangyan/softwareProjects/clionProjects/CPlusPlus4OtherLanguage/1.functionDeclaration/src/swap.h
+
